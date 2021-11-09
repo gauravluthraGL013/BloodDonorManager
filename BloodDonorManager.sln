@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodDonorManager", "BloodDonorManager\BloodDonorManager.csproj", "{E6C4F534-8439-4F34-B88B-84C5D48FF18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C4F534-8439-4F34-B88B-84C5D48FF18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C4F534-8439-4F34-B88B-84C5D48FF18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C4F534-8439-4F34-B88B-84C5D48FF18F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E6C4F534-8439-4F34-B88B-84C5D48FF18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C4F534-8439-4F34-B88B-84C5D48FF18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C4F534-8439-4F34-B88B-84C5D48FF18F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5973C9-18E6-449F-932B-C14B9663C5FC}
+	EndGlobalSection
+EndGlobal
